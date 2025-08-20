@@ -1,0 +1,6503 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "TBT Localization_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -2317064243062288470
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 9434922247397376,
+        "m_Localized": "Player",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361484,
+        "m_Localized": "We will be closing soon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361493,
+        "m_Localized": "its horrible...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361497,
+        "m_Localized": "I go now...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361502,
+        "m_Localized": "No",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361506,
+        "m_Localized": "It is locked...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361509,
+        "m_Localized": "After saving up for 5 years, I finally have enough money to open my own boba tea shop.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361510,
+        "m_Localized": "This is it...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361514,
+        "m_Localized": "I ordered a Boba Milk Tea with extra bobas! you call this \"extra\"?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3443440361522,
+        "m_Localized": "You should kill yourself for making a simple order wrong!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 4475687936000,
+        "m_Localized": "Do this task",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 31200589258752,
+        "m_Localized": "Interact",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 31409675313152,
+        "m_Localized": "Drop",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 31604483956736,
+        "m_Localized": "Interact",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 50328880422912,
+        "m_Localized": "Flip store signage to \"Open\"",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 59658887372800,
+        "m_Localized": "English",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10648118568296448,
+        "m_Localized": "Seal Cup",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 134831619579904,
+        "m_Localized": "Customer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 134850481364992,
+        "m_Localized": "Talk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 411565543792640,
+        "m_Localized": "Prepare for customers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 748380997951488,
+        "m_Localized": "Talk to customer to take orders",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 748725304172544,
+        "m_Localized": "Make Boba Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 768723531735040,
+        "m_Localized": "Deliver Orders to customer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 777838865817600,
+        "m_Localized": "Ingredients: Empty Cup, Milk Tea, Boba, Straw and Cover",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 825891203194880,
+        "m_Localized": "Place orders on the tray and ring the bell",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 863635199631360,
+        "m_Localized": "Continue to serve customers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 864319550660608,
+        "m_Localized": "Go to your counter and close the counter door",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 864594554396672,
+        "m_Localized": "Some customer may ask for specific request. Listen carefully and don't mess up their orders",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 1259860394647552,
+        "m_Localized": "Click on the cash to put in cash register",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 2675688860164096,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 2731320652996608,
+        "m_Localized": "Flip store signage to \"Close\"",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3655031606353920,
+        "m_Localized": "Keep The chairs",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3675864034844672,
+        "m_Localized": "Clean the floor",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3675949271490560,
+        "m_Localized": "Take mop from the staff room and clean dirt spots on the floor",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 4920200969986048,
+        "m_Localized": "Exit the shop to end Shift",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922293534720,
+        "m_Localized": "The moment where all those long corporate days finally pay off in the form of boba and dreams.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922293534721,
+        "m_Localized": "But even with all this excitement, my nerves are on edge.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729024,
+        "m_Localized": "I’ve put everything into this place… I can’t let it fail.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729026,
+        "m_Localized": "It’s about time a boba tea shop opened around here.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729027,
+        "m_Localized": "I’ll have a Boba Milk Tea.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729028,
+        "m_Localized": "I’ll have a boba milk tea.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729030,
+        "m_Localized": "Thank you",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729032,
+        "m_Localized": "Hmm...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729033,
+        "m_Localized": "What’s all this fuss about these drinks?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729034,
+        "m_Localized": "Alright then, I’ll take one Boba Milk Tea for my son, and one Black Tea, for myself. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729035,
+        "m_Localized": "It’s milk tea with tapioca, also known as boba.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729036,
+        "m_Localized": "These drinks are trending among youngster. You should try one.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729037,
+        "m_Localized": "Alright then, I’ll take one Boba Milk Tea for my son, and one Black Tea, for myself. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729038,
+        "m_Localized": "Not sure I trust those chewy things.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729039,
+        "m_Localized": "One Boba Milk Tea for my son, and one Black Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729040,
+        "m_Localized": "Not sure I trust those chewy things.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729042,
+        "m_Localized": "Yay! A boba tea shop!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729043,
+        "m_Localized": "Big sis, can I get one Fresh Milk with Boba, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729044,
+        "m_Localized": "Big sis, can I get one Fresh Milk with Boba, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729046,
+        "m_Localized": "Thank you!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729047,
+        "m_Localized": "Big sis, you should add strawberry boba to the menu!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729048,
+        "m_Localized": "It will be a best seller for sure!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729050,
+        "m_Localized": "Expanding the menu could be a good idea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729051,
+        "m_Localized": "I will do some research after closing",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729053,
+        "m_Localized": "Oh wow, I wasn’t expecting to see such a beautiful lady behind the counter.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729061,
+        "m_Localized": "I will have 1 boba milk tea with extra boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729064,
+        "m_Localized": "Can I have one boba milk tea with extra boba?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729065,
+        "m_Localized": "Can I have one boba milk tea with extra boba?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729067,
+        "m_Localized": "Gee Thanks!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729068,
+        "m_Localized": "Also, you look really cute! Can I have your number?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729069,
+        "m_Localized": "Sure [Give Fake Number]",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729070,
+        "m_Localized": "No",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729071,
+        "m_Localized": "Sweet! Now I’ve got a new favorite boba tea shop… and barista. <3",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729072,
+        "m_Localized": "Shucks… oh well. Can’t blame a guy for trying.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729074,
+        "m_Localized": "That is all for today, I should clean the shop and prep for tomorrow",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729076,
+        "m_Localized": "Heh, this better be good!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729078,
+        "m_Localized": "I-I’m so sorry! I didn’t mean to scare you…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729079,
+        "m_Localized": "I saw you were about to close, and I had to rush in…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729080,
+        "m_Localized": "It’s fine… Come over to the counter, and I’ll take your order.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729081,
+        "m_Localized": "We are CLOSED! Get out!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729082,
+        "m_Localized": "Please! I just need something sweet to keep me going…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729083,
+        "m_Localized": "I work in this building, and I have a report due by tomorrow.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729084,
+        "m_Localized": "NO, I said GET OUT!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729085,
+        "m_Localized": "If I don’t get this report done, I’ll be fired…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729086,
+        "m_Localized": "Thank you so much!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729087,
+        "m_Localized": "GET OUT BEFORE I CALL THE COPS!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729089,
+        "m_Localized": "Ok... sorry to bother you",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729090,
+        "m_Localized": "If I don’t finish it, my boss will kill me!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729092,
+        "m_Localized": "Fine… Just place your order and make it quick.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729094,
+        "m_Localized": "I’ll take… uh, one Boba Milk Tea with extra Boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9434922297729096,
+        "m_Localized": "Thank you so much… I really appreciate it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816467013509120,
+        "m_Localized": "Start Game",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816492565209088,
+        "m_Localized": "Settings",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816547305070592,
+        "m_Localized": "Wishlist on Steam",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816575490793472,
+        "m_Localized": "Language",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816646433251328,
+        "m_Localized": "Quit Game",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816695204618240,
+        "m_Localized": "Yes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816724308893696,
+        "m_Localized": "No",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816835722190848,
+        "m_Localized": "<Back",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816863886942208,
+        "m_Localized": "Resolution",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816894832517120,
+        "m_Localized": "Fullscreen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816922238099456,
+        "m_Localized": "Sound Volume",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9816953271754752,
+        "m_Localized": "Look Sensitivity",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9817004190605312,
+        "m_Localized": "Demo",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 9818574500274176,
+        "m_Localized": "Are you sure?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10529371379605504,
+        "m_Localized": "Day 1",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10529911538851840,
+        "m_Localized": "End of Day 1",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10530055437033472,
+        "m_Localized": "WARNING:\n\nThis game contains loud noises, jump scares, and unsettling content.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10535405804462080,
+        "m_Localized": "Game Paused",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536185240363008,
+        "m_Localized": "Quit?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536185294888960,
+        "m_Localized": "Sound Volume",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10538825667977216,
+        "m_Localized": "Wishlist ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10538825617645568,
+        "m_Localized": "Quit Game",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536185361997824,
+        "m_Localized": "Mouse Sensitivity",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536185395552256,
+        "m_Localized": "Yes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536185412329472,
+        "m_Localized": "No",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536540393054208,
+        "m_Localized": "Fullscreen Mode",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10536540460163072,
+        "m_Localized": "Screen Resolution",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10538825693143040,
+        "m_Localized": "Resume",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10538825718308864,
+        "m_Localized": "Settings",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10601715632578560,
+        "m_Localized": "Boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10603124834836480,
+        "m_Localized": "Boba milk tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10603392691478528,
+        "m_Localized": "Cup cover",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10603653027733504,
+        "m_Localized": "Double boba milk tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10603802420453376,
+        "m_Localized": "Empty cup",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10604007177986048,
+        "m_Localized": "Milk tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10604128745693184,
+        "m_Localized": "Mop",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10604310296141824,
+        "m_Localized": "Straw",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10632045596909568,
+        "m_Localized": "Take",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10632488305696768,
+        "m_Localized": "Door",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10632581029175296,
+        "m_Localized": "Open",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10633564656377856,
+        "m_Localized": "Close",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10633937660026880,
+        "m_Localized": "Male Toilet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10634404553170944,
+        "m_Localized": "Female Toilet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10636078558617600,
+        "m_Localized": "Counter Door",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10643695909609472,
+        "m_Localized": "Trash Can",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10643752599822336,
+        "m_Localized": "Dispose Item",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10644211070803968,
+        "m_Localized": "Locker",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10645616519159808,
+        "m_Localized": "Chair",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10645674304086016,
+        "m_Localized": "Keep",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10645900205105152,
+        "m_Localized": "Pick up",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10648288957702144,
+        "m_Localized": "Add straw",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10648410542186496,
+        "m_Localized": "Add Boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10654243304906752,
+        "m_Localized": "Toilet Lid",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10655174222290944,
+        "m_Localized": "Toilet Handle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10655249631682560,
+        "m_Localized": "Flush",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10655477801820160,
+        "m_Localized": "Sink",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10657422797053952,
+        "m_Localized": "Interactable",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10657488723124224,
+        "m_Localized": "Interact",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10657751399800832,
+        "m_Localized": "Cup Station",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10657810979889152,
+        "m_Localized": "Place Cup",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10658254905024512,
+        "m_Localized": "Place cup with recipe below",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10658397855293440,
+        "m_Localized": "Black Tea Container",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10658436090568704,
+        "m_Localized": "Dispense Black Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10659263802908672,
+        "m_Localized": "Bell",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10659311987073024,
+        "m_Localized": "Ring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10659453163151360,
+        "m_Localized": "Entrance Sign",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10659515322736640,
+        "m_Localized": "Flip",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10660242300477440,
+        "m_Localized": "Place mop",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10660449817862144,
+        "m_Localized": "Can't place this item here",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10660620928688128,
+        "m_Localized": "Place customer's orders here",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10660822074925056,
+        "m_Localized": "Delivery Counter",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10660922205544448,
+        "m_Localized": "Place",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10893149271105536,
+        "m_Localized": "Total Cash:",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10893310923776000,
+        "m_Localized": "CASHIER\non Duty:",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10893450594099200,
+        "m_Localized": "Current Orders",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10909072065437696,
+        "m_Localized": "Keep the mop before leaving the shop",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10909169448787968,
+        "m_Localized": "End Shift",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10909331374088192,
+        "m_Localized": "Entrance Door",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10915569101053952,
+        "m_Localized": "Developer Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10915815038263296,
+        "m_Localized": "Thank you for playing the alpha demo of The Boba Teashop!\n\nThe game is still in development, and I truly appreciate any feedback or criticism you may have. Your thoughts will help shape the final experience!\n\nIf you enjoyed the demo and want to stay updated, please consider wishlisting and follow the game on Steam. It not only keeps you notified about the release but also greatly supports me as an indie developer.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10916613583413248,
+        "m_Localized": "What's coming in the full release?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10916705954570240,
+        "m_Localized": "- More delicious boba recipe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10916722291384320,
+        "m_Localized": "- A complete emotional story for Risa",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10916749529194496,
+        "m_Localized": "- Even more spine-chilling scares",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10917503518253056,
+        "m_Localized": "Wishlist",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10917519913787392,
+        "m_Localized": "Main Menu",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10917533742407680,
+        "m_Localized": "Exit Game",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10934751091892224,
+        "m_Localized": "SETTINGS",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10936941323886592,
+        "m_Localized": "Exclusive Fullscreen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10937346829197312,
+        "m_Localized": "Window Fullscreen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10937444556480512,
+        "m_Localized": "Windowed",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10937394149335040,
+        "m_Localized": "Maximized Window",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10938371015319552,
+        "m_Localized": "<Back",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 10938371057262592,
+        "m_Localized": "Settings",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 11028631145553920,
+        "m_Localized": "Dirt",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 11028714935164928,
+        "m_Localized": "Mop floor",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12387859647045632,
+        "m_Localized": "Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12391847335436288,
+        "m_Localized": "Add Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12399253008293888,
+        "m_Localized": "Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12691627689254912,
+        "m_Localized": "Black Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12692762340761600,
+        "m_Localized": "Boba Black Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12712782299013120,
+        "m_Localized": "Fridge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13047038476951552,
+        "m_Localized": "Cup Sealer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13065600650321920,
+        "m_Localized": "Place completed product to seal",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13216950143033344,
+        "m_Localized": "Remove sealed product first",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13534219331051520,
+        "m_Localized": "Double Boba Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13534325430165504,
+        "m_Localized": "Boba Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13557970894462976,
+        "m_Localized": "Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13562473668550656,
+        "m_Localized": "Coffee Container",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13562518908313600,
+        "m_Localized": "Dispense Coffee",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13800600928657408,
+        "m_Localized": "Double Boba Black Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13908933492744192,
+        "m_Localized": "Boba Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13909537258610688,
+        "m_Localized": "Double Boba Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13930397923155968,
+        "m_Localized": "Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14450405916942336,
+        "m_Localized": "Boba Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14532710765305856,
+        "m_Localized": "Double Boba Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14820756492525568,
+        "m_Localized": "Strawberry Slice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14829705539231744,
+        "m_Localized": "Lemon Slice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14868289977720832,
+        "m_Localized": "Lemon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14879992853438464,
+        "m_Localized": "Matcha Powder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14905252168474624,
+        "m_Localized": "Lemon Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14906562196414464,
+        "m_Localized": "Add Lemon Slice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14989416184029184,
+        "m_Localized": "Boba Lemon Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14989807084773376,
+        "m_Localized": "Double Boba Lemon Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14992706691014656,
+        "m_Localized": "Strawberry Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14992912148996096,
+        "m_Localized": "Boba Strawberry Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14993073319321600,
+        "m_Localized": "Double Boba Strawberry Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15607043088588800,
+        "m_Localized": "Strawberry Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15607115842985984,
+        "m_Localized": "Boba Strawberry Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15607154636103680,
+        "m_Localized": "Double Boba Strawberry Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15608098417418240,
+        "m_Localized": "Strawberry Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15608148031840256,
+        "m_Localized": "Boba Strawberry Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15608229770436608,
+        "m_Localized": "Double Boba Strawberry Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15617072478953472,
+        "m_Localized": "Add Strawberry Slice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15998653131530240,
+        "m_Localized": "Strawberry Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15999551295594496,
+        "m_Localized": "Boba Strawberry Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 15999762122285056,
+        "m_Localized": "Double Boba Strawberry Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16003266631049216,
+        "m_Localized": "Add Matcha Powder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16358497382440960,
+        "m_Localized": "Double Boba Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16359300717486080,
+        "m_Localized": "Boba Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16359512102019072,
+        "m_Localized": "Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16665382765600768,
+        "m_Localized": "Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16665463250100224,
+        "m_Localized": "Boba Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16665890347687936,
+        "m_Localized": "Double Boba Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16789488471252992,
+        "m_Localized": "Strawberry Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16790464485793792,
+        "m_Localized": "Boba Strawberry Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16790617917628416,
+        "m_Localized": "Double Boba Strawberry Green Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17135794477735936,
+        "m_Localized": "Double Boba Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17135924241113088,
+        "m_Localized": "Boba Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17136124229722112,
+        "m_Localized": "Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17187478373539840,
+        "m_Localized": "Double Boba Matcha Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17187652877557760,
+        "m_Localized": "Boba Matcha Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17187799896301568,
+        "m_Localized": "Matcha Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17192379187077120,
+        "m_Localized": "Double Boba Matcha Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17192477220544512,
+        "m_Localized": "Boba Matcha Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17192585051906048,
+        "m_Localized": "Matcha Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17402526643658752,
+        "m_Localized": "Double Boba Matcha Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17403414426820608,
+        "m_Localized": "Boba Matcha Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17404290382045184,
+        "m_Localized": "Matcha Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17410275267977216,
+        "m_Localized": "Chocolate Container",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17410323401809920,
+        "m_Localized": "Dispense Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17509859893846016,
+        "m_Localized": "Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17510072868020224,
+        "m_Localized": "Boba Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17510294977388544,
+        "m_Localized": "Double Boba Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17735843993755648,
+        "m_Localized": "Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17735981936025600,
+        "m_Localized": "Boba Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17736090342006784,
+        "m_Localized": "Double Boba Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17890307224510464,
+        "m_Localized": "Prepare Boba Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17890234239426560,
+        "m_Localized": "Fill cup with Black Tea, add Milk, and Boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17890789166817280,
+        "m_Localized": "Use Cup Sealer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 17890827070742528,
+        "m_Localized": "You can only deliver drinks to customers after sealing the cup",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21130267490656256,
+        "m_Localized": "Custom Drink Order",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21130331185356800,
+        "m_Localized": "Some customers may request custom or specialized orders. They may leave tips depending on how satisfied they are with their drink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22050776298430464,
+        "m_Localized": "Strawberry Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22050901557125120,
+        "m_Localized": "Double Boba Strawberry Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22051107518423040,
+        "m_Localized": "Boba Strawberry Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22124448149282816,
+        "m_Localized": "Boba Strawberry Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22129930339491840,
+        "m_Localized": "Strawberry Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22123259420614656,
+        "m_Localized": "Double Boba Strawberry Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22602214418292736,
+        "m_Localized": "Day 2",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786920975835136,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275648,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275649,
+        "m_Localized": "Welcome back sweetie!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275650,
+        "m_Localized": "How was school today?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275651,
+        "m_Localized": "Mummy's gonna come home late tomorrow...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275652,
+        "m_Localized": "Be sure to brush your teeth and sleep early",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275653,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275654,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275655,
+        "m_Localized": "Good Sir, I hope you enjoy your time at the Hanging Bridge Bar...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275656,
+        "m_Localized": "Can I have another pint?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275657,
+        "m_Localized": " ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275658,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275659,
+        "m_Localized": "I have a bad day today, one more pint of cold beer and I will be gone.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921093275660,
+        "m_Localized": "Please, one more pint...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469952,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469953,
+        "m_Localized": "Sir, are you ok?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469954,
+        "m_Localized": "My back...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469955,
+        "m_Localized": "it hurts...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469956,
+        "m_Localized": "Arrows...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469957,
+        "m_Localized": "incoming...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469958,
+        "m_Localized": "Sir, it is all over now.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469959,
+        "m_Localized": "You will feel better once you cross over to the other side.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469960,
+        "m_Localized": "Okay...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469961,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469962,
+        "m_Localized": "Are you sure you want to exit your house?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469963,
+        "m_Localized": "Sure?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469964,
+        "m_Localized": "Yes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469965,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469966,
+        "m_Localized": "This is the storage room...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469967,
+        "m_Localized": " ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469968,
+        "m_Localized": "Mom always keep the storage room locked",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469969,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469970,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469971,
+        "m_Localized": "Can I get a Boba Milk Tea please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469972,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469973,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469974,
+        "m_Localized": "Hey girl, you look cute.. Can I get your number?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469975,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469976,
+        "m_Localized": "It's good to be young and ambitious. When I was your age...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469977,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469978,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469979,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469980,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469981,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469982,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469983,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469984,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469985,
+        "m_Localized": "You working alone?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469986,
+        "m_Localized": "Yes, right now I'm the only one managing the store",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469987,
+        "m_Localized": "No, my staff is in the backroom",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469988,
+        "m_Localized": "I see... So, you're the boss",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469989,
+        "m_Localized": "Such a pretty lady working late at night might be dangerous",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469990,
+        "m_Localized": "Can I have your order?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469991,
+        "m_Localized": "Alright, I get it. Just shooting my shots here",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469992,
+        "m_Localized": "Well, let me have 1 boba milk tea with extra boba",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921097469993,
+        "m_Localized": "You know how frustrated all these office workers can get...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858560,
+        "m_Localized": "Any drink will do, as long you add in some Boba sweet as you..",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858561,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858562,
+        "m_Localized": "Here is a little extra! ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858563,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858564,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858565,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858566,
+        "m_Localized": "Thank you for serving me at this hour",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858567,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858568,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858569,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858570,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858571,
+        "m_Localized": "This is not what I ordered.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858572,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858573,
+        "m_Localized": "Big sis, this is not my order.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858574,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858575,
+        "m_Localized": "There is no Boba in this drink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858576,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858577,
+        "m_Localized": "I have introduced the \"Coffee\" series into the menu...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858578,
+        "m_Localized": "Time to wow the customers with some new drinks.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858579,
+        "m_Localized": "The recipe for the new drink is jotted down on the white board in the staff room.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858580,
+        "m_Localized": "This should keep those workaholic awake.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858581,
+        "m_Localized": "Also, thanks to that little girl's suggestion...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858582,
+        "m_Localized": "I have added strawberries into the mix",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858583,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858584,
+        "m_Localized": "I see you have added some coffee drinks to the menu",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858585,
+        "m_Localized": "Give me one Boba Milk Tea and one Americano",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858586,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858587,
+        "m_Localized": "Thanks, just a heads up for you... ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858588,
+        "m_Localized": "I will be running maintenance on the electrical circuit of this building.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858589,
+        "m_Localized": "So expect some power outage from time to time.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858590,
+        "m_Localized": "Here, take my spare flashlight in case you need it!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858591,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858592,
+        "m_Localized": "Yay, you added strawberry into your menu!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858593,
+        "m_Localized": "Please make me any drinks with strawberries in it!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858594,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858595,
+        "m_Localized": "Did you not pay your electricity bill big sis?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858596,
+        "m_Localized": "Hehehe... here is a little extra for your electric! ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858597,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858598,
+        "m_Localized": "What is wrong with your store? There is no electricity!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858599,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858600,
+        "m_Localized": "Give me two Boba Strawberry Milk Tea.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 22786921105858601,
+        "m_Localized": "Hurry up, I need my energy replenishment after whole day of working out!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23195150235344896,
+        "m_Localized": "Phone",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23195289326854144,
+        "m_Localized": "Answer Phone",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23504677421850624,
+        "m_Localized": "Clean your shop or End Shift",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23565920602038272,
+        "m_Localized": "Day 3",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23570386726297600,
+        "m_Localized": "Double Boba Strawberry Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23570486273908736,
+        "m_Localized": "Boba Strawberry Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23570554632675328,
+        "m_Localized": "Strawberry Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23572430170234880,
+        "m_Localized": "Double Boba Strawberry Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23572797087948800,
+        "m_Localized": "Boba Strawberry Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 23572851332882432,
+        "m_Localized": "Strawberry Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 24278896304857088,
+        "m_Localized": "Day 4",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25125625375891456,
+        "m_Localized": "Resume",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25125673039962112,
+        "m_Localized": "Settings",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25125714542600192,
+        "m_Localized": "Quit Game",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25126482502885376,
+        "m_Localized": "Fullscreen Mode",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25126590854340608,
+        "m_Localized": "Screen Resolution",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25126670856495104,
+        "m_Localized": "Sound Volume",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25126702024368128,
+        "m_Localized": "Mouse Sensitivity",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25139565019406336,
+        "m_Localized": "Boba/Customer/Vivien/1/Order",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 25457838432854016,
+        "m_Localized": "Check Toilet for customers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 26932802633736192,
+        "m_Localized": "Double Boba Strawberry Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 26933040211697664,
+        "m_Localized": "Boba Strawberry Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 26933185754046464,
+        "m_Localized": "Strawberry Mocha",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 26937329948696576,
+        "m_Localized": "Place cup here",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27277346495668224,
+        "m_Localized": "Day 5",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 29003156814438400,
+        "m_Localized": "Day 6",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 30466088219844608,
+        "m_Localized": "Day 7",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32283050906361856,
+        "m_Localized": "Continue: Day 2",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32367090959261696,
+        "m_Localized": "Framerate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32403684747517952,
+        "m_Localized": "Start new game?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32404072758386688,
+        "m_Localized": "This game will autosave at the end of every shift.\n\nStarting a new game will overwrite the existing save file.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32619903429779456,
+        "m_Localized": "Brightness",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32665473804541952,
+        "m_Localized": "Continue: Day 3",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32665593933602816,
+        "m_Localized": "Continue: Day 4",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32665674837532672,
+        "m_Localized": "Continue: Day 5",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32665777862221824,
+        "m_Localized": "Continue: Day 6",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32665858162171904,
+        "m_Localized": "Continue: Day 7",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32699143592484864,
+        "m_Localized": "A Game by Mike Ten",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32700267158446080,
+        "m_Localized": "Softwares and Assets",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32700471974699008,
+        "m_Localized": "Unity Engine 6",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32700996073955328,
+        "m_Localized": "Blender 4.2",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32701981747978240,
+        "m_Localized": "Character Creator 4",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32705022018592768,
+        "m_Localized": "IClone 8",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32706655033106432,
+        "m_Localized": "Odin Inspector - Sirenix",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32707225026437120,
+        "m_Localized": "DoTween Pro - Demigiant",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32707600320176128,
+        "m_Localized": "Dialogue System - Pixel Crushers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32708762607951872,
+        "m_Localized": "Toolkit for Steamworks - Heathen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32710046052392960,
+        "m_Localized": "Beautify 3 - Kronnect",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32710316723412992,
+        "m_Localized": "Retro Look Pro v3 - Limitless Unity Development",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32710771134308352,
+        "m_Localized": "Feel - More Mountains",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32711186240380928,
+        "m_Localized": "Suitcase - Moon Studio",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32711622775152640,
+        "m_Localized": "House Furniture Pack - Finward Studios",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32713687027032064,
+        "m_Localized": "Arts and Music",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32713816895266816,
+        "m_Localized": "Risa Cover Art - Lora_M00n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32715737362210816,
+        "m_Localized": "Immersive Dark Ambient - WOWSound",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32716107291435008,
+        "m_Localized": "Cafe Love - WOWSound",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32717646743609344,
+        "m_Localized": "PSX Horror Audio Bundle - Audible Dread",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32719101584089088,
+        "m_Localized": "Main Menu",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32719210803765248,
+        "m_Localized": "Exit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 32761018464215040,
+        "m_Localized": "Follow me for my upcoming games",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364620615680,
+        "m_Localized": "Anyway, give me a cup of Strawberry Milk Tea.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696064,
+        "m_Localized": "Give me a cup of Strawberry Milk Tea.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696065,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696066,
+        "m_Localized": "What took you so long?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696067,
+        "m_Localized": "I almost died of exhaustion here!!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696068,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696069,
+        "m_Localized": "This is not what I ordered! You can't even get a simple order right?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696070,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696071,
+        "m_Localized": "Hey there, is me again from just now...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696072,
+        "m_Localized": "Just wanna inform you that I have completed the electrical maintenance.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696073,
+        "m_Localized": "That's all, bye.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696074,
+        "m_Localized": "You shouldn't be experiencing any power outage anymore...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696075,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696076,
+        "m_Localized": "Well, hello there. This place has a really cozy vibe...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696077,
+        "m_Localized": "hmmm... So many choices... I don’t even know where to start.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696078,
+        "m_Localized": "Say, do you have any caffeinated milky drinks?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696079,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696080,
+        "m_Localized": "Ah, just how I like my caffeine... smooth, creamy, and milky.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696081,
+        "m_Localized": "Here’s a little tip… for making it how I like it. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696082,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696083,
+        "m_Localized": "Not quite how I like it. It lacks.... Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696084,
+        "m_Localized": "But here some extra tips for the trouble. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696085,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696086,
+        "m_Localized": "I have added \"Chocolate\" series into the menu",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696087,
+        "m_Localized": "Now my customers should have more variety of drinks to choose from",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696088,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696089,
+        "m_Localized": "Give me a cup of Boba Mocha.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696090,
+        "m_Localized": "Make sure you do it right.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696091,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696092,
+        "m_Localized": "Yeah, this looks fine...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696093,
+        "m_Localized": "Anyway, have you heard about the woman who jumped from this building?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696094,
+        "m_Localized": "The stress must have gotten to her.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696095,
+        "m_Localized": "I understand working in a corporate job is stressful",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696096,
+        "m_Localized": "Corporate life isn’t easy, but some of us have an image to maintain.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696097,
+        "m_Localized": "You wouldn’t get it, working a low-stress job like this.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696098,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696099,
+        "m_Localized": "Hey there pretty...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696100,
+        "m_Localized": "Please make me something \"Chocolatey\"",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696101,
+        "m_Localized": "But I don't want any Boba in it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696102,
+        "m_Localized": "I almost choked to death the last time.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696103,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696104,
+        "m_Localized": "Thank you...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696105,
+        "m_Localized": "You know... I should come visit you more often",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696106,
+        "m_Localized": "Working alone must be scary at this hour.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696107,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696108,
+        "m_Localized": "Hello, is this Miss Risa? ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696109,
+        "m_Localized": "This is Dr. Amanda, your psychologist from yesterday.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696110,
+        "m_Localized": "I wanted to check in on you. You mentioned seeing… things",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696111,
+        "m_Localized": "That can happen when you're under a lot of stress.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696112,
+        "m_Localized": "If you see something that isn’t really there...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696113,
+        "m_Localized": "try shifting your focus away and take a deep breath for a few seconds...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696114,
+        "m_Localized": "Most of the time, that should help.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696115,
+        "m_Localized": "But if it doesn’t… maybe consider leaving work early and getting some rest.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696116,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696117,
+        "m_Localized": "I’ve been feeling off lately… maybe it’s just the stress.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696118,
+        "m_Localized": "I even went to see a psychologist about it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696119,
+        "m_Localized": "She said I’m fine—that it’s all in my head.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696120,
+        "m_Localized": "But I can’t stop now...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696121,
+        "m_Localized": "Business is picking up with the new menu, and I need to keep things running.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696122,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696123,
+        "m_Localized": "Boba Matcha Latte. Make it quick.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696124,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696125,
+        "m_Localized": "Running a company isn’t easy, you know...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696126,
+        "m_Localized": "Just the other day, one of my employees decided to \"run away\" from her responsibilities.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696127,
+        "m_Localized": "Unlike her, I don’t get the luxury of walking away.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696128,
+        "m_Localized": "Hundreds of people rely on me to feed their families",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696129,
+        "m_Localized": "Here. Consider it a little extra for your trouble. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696130,
+        "m_Localized": "Left a mess behind, and now I have to clean it up for her.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696131,
+        "m_Localized": "Sorry, that was a weird thing to rant about.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696132,
+        "m_Localized": "Thankfully, I found a replacement fast.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696133,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696134,
+        "m_Localized": "Well hey there, nice to see you again.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696135,
+        "m_Localized": "Could you give me one Chocolate Milk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696136,
+        "m_Localized": "I've had enough caffeine this morning.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696137,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696138,
+        "m_Localized": "Thank you",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696139,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696140,
+        "m_Localized": "Give me a Double Boba Strawberry Chocolate Milk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696141,
+        "m_Localized": "Make it quick! I’ve got another lap to run.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696142,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696143,
+        "m_Localized": "Took you long enough! I could’ve run another lap by now",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696144,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696145,
+        "m_Localized": "Hi miss...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696146,
+        "m_Localized": "I really like your boba tea! My dad always gets it for me.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696147,
+        "m_Localized": "But he's super busy today, so I came to get it for him instead!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696148,
+        "m_Localized": "Can I have one Boba Milk Tea and one Mocha, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696149,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696150,
+        "m_Localized": "Thanks, miss!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696151,
+        "m_Localized": "Waiting for my dad every day is sooo boring...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696152,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696153,
+        "m_Localized": "You don’t happen to have any matcha drinks, do you?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696154,
+        "m_Localized": "That’s a shame... I really love matcha.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696155,
+        "m_Localized": "Oh well! In that case, I’ll take a Boba Chocolate!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696156,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696157,
+        "m_Localized": "Thanks! But seriously, add some matcha to the menu, and you’ll see me here all the time!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696158,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696159,
+        "m_Localized": "It is closing time now...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696160,
+        "m_Localized": "I should probably check if anyone is still in the toilet.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696161,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696162,
+        "m_Localized": "...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696163,
+        "m_Localized": "Sir, we are closing soon...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696164,
+        "m_Localized": "Are you going to order?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696165,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696166,
+        "m_Localized": "I am seeing things lately...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696167,
+        "m_Localized": "I should leave early and get professional help.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696168,
+        "m_Localized": "......",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696169,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696170,
+        "m_Localized": "Hello there, sweetie... Such a lovely little shop you have here.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696171,
+        "m_Localized": "Could I have a cup of Strawberry Chocolate, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696172,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696173,
+        "m_Localized": "Thank you sweetie.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696174,
+        "m_Localized": "You look a little pale... like you've seen a ghost or something.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696175,
+        "m_Localized": "Make sure you get enough sleep dear. Night can be... unkind to the restless.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696176,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696177,
+        "m_Localized": "Yeah, gimme two Americanos, one Latte, and one Mocha.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696178,
+        "m_Localized": "And none of that boba crap.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696179,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696180,
+        "m_Localized": "Good. Everything’s here.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696181,
+        "m_Localized": "Hittin’ the road with my family. Gotta keep ‘em awake so they don’t pass out on me.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696182,
+        "m_Localized": "Later, loser.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696183,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696184,
+        "m_Localized": "You have added Matcha, that's awesome!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696185,
+        "m_Localized": "Can I have a Boba Strawberry Matcha Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696186,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696187,
+        "m_Localized": "Thank you!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696188,
+        "m_Localized": "Here's something extra for you! ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696189,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696190,
+        "m_Localized": "Hi big sis...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696191,
+        "m_Localized": "Please make me any drink with strawberry again!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696192,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696193,
+        "m_Localized": "Thanks for doing your job.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696194,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696195,
+        "m_Localized": "Give me a Strawberry Mocha!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696196,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696197,
+        "m_Localized": "Great, now back to working I go!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696198,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696199,
+        "m_Localized": "Thank you again big sis!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696200,
+        "m_Localized": "Here is a little extra for your hard work! ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696201,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696202,
+        "m_Localized": "I haven’t really been feeling like myself lately.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696203,
+        "m_Localized": "Maybe it’s just stress — or not getting enough sleep.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696204,
+        "m_Localized": "But I’ve got a business to run, and people are starting to come back more often.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696205,
+        "m_Localized": "Just gotta keep going, one cup at a time.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696206,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696207,
+        "m_Localized": "Could I get one Boba Milk Tea and one Boba Americano?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696208,
+        "m_Localized": "Yeah, I know I said I didn’t trust boba.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696209,
+        "m_Localized": "Guess there’s a first time for everything.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696210,
+        "m_Localized": "But my son finally talked me into trying it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696211,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696212,
+        "m_Localized": "Thanks.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696213,
+        "m_Localized": "If these damn things choke me to death, I’m coming back to haunt you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696214,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696215,
+        "m_Localized": "Double Boba Matcha Milk Tea... ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696216,
+        "m_Localized": "Hurry...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696217,
+        "m_Localized": "Or else...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696218,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696219,
+        "m_Localized": "Thank you...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696220,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696221,
+        "m_Localized": "Hello, nice to meet you! ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696222,
+        "m_Localized": "I am an inspector from the department of health.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696223,
+        "m_Localized": "I need to run a quick cleanliness check on your shop...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696224,
+        "m_Localized": "This is to make sure that your shop meets the standard needed",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696225,
+        "m_Localized": "Don't worry, you may continue serving your customers normally.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696226,
+        "m_Localized": "Just pretend I'm not here.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696227,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696228,
+        "m_Localized": "Dearie, could I have a cup of green tea, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696229,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696230,
+        "m_Localized": "The yin energy in this place is strong… Gives me goosebumps.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696231,
+        "m_Localized": "I’d better leave while I still can.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696232,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696233,
+        "m_Localized": "Alright,  everything appears to be sparkling clean.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696234,
+        "m_Localized": "Thank you so much for your time and have a nice day",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696235,
+        "m_Localized": "I’ve completed the inspection of your shop.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696236,
+        "m_Localized": "I’ve completed the inspection of your shop, but unfortunately it is very filthy",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696237,
+        "m_Localized": "It does not meet the standard of cleanliness of the Ministry of Health.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696238,
+        "m_Localized": "I have no choice but to issue you a fine of $100",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696239,
+        "m_Localized": "Luckily your shop has met the bare minimum standard...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696240,
+        "m_Localized": "Please make sure to clean your shop thoroughly next time.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696241,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696242,
+        "m_Localized": "Hi big sis...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696243,
+        "m_Localized": "I'm kinda bored of strawberry.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696244,
+        "m_Localized": "Can I try a Lemon Tea instead?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696245,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696246,
+        "m_Localized": "Thank you big sis!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696247,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696248,
+        "m_Localized": "Anything matcha and sweet will do.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696249,
+        "m_Localized": "I’m too tired to choose.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696250,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696251,
+        "m_Localized": "Ooh, this is perfect!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696252,
+        "m_Localized": "Here, take this as a little thank you. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696253,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696254,
+        "m_Localized": "This is way too bitter...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696255,
+        "m_Localized": "Ugh, whatever. Here, take this. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696256,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696257,
+        "m_Localized": "It’s alright, I guess.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696258,
+        "m_Localized": "Here, a little something for you. ($[var=CurrentTips])",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696259,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696260,
+        "m_Localized": "I don't feel so good...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696261,
+        "m_Localized": "I should leave the office soon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696262,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696263,
+        "m_Localized": "Everyday, it feels like I’m slipping further…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696264,
+        "m_Localized": "The things I see — sometimes they’re there, sometimes they’re not",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696265,
+        "m_Localized": "I don’t even know what’s real anymore.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696266,
+        "m_Localized": "But this shop is my dream.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696267,
+        "m_Localized": "I’ve worked too hard to let it all fall apart now.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696268,
+        "m_Localized": "So I’ll smile, I’ll serve, and I’ll keep going...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696269,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696270,
+        "m_Localized": "Nice. You do know how to follow instructions.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696271,
+        "m_Localized": "Guess even losers can learn.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696272,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696273,
+        "m_Localized": "Yo, had the best road trip of my life...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696274,
+        "m_Localized": "And look at you… still slaving away behind the counter.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696275,
+        "m_Localized": "Tsk, what a loser.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696276,
+        "m_Localized": "Anyway, gimme a Matcha Latte and a Strawberry Mocha.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696277,
+        "m_Localized": "Gimme a Matcha Latte and a Strawberry Mocha.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696278,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696279,
+        "m_Localized": "Just give me any strong coffee. No milk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696280,
+        "m_Localized": "And make it quick, some of us have real jobs to get back to!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696281,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696282,
+        "m_Localized": "For a second there, I thought I’d have to teach you how to brew coffee.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696283,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696284,
+        "m_Localized": "You're nice, big sis!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696285,
+        "m_Localized": "But I hope I don’t end up doing this when I’m older!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696286,
+        "m_Localized": "Teehee~",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696287,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696288,
+        "m_Localized": "Lemon Tea tastes good… Can I have one with Boba, please?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696289,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696290,
+        "m_Localized": "Boba Matcha Milk Tea!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696291,
+        "m_Localized": "Hurry, I need to get back to my IMPORTANT work",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696292,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696293,
+        "m_Localized": "Good job I guess!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696294,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696295,
+        "m_Localized": "Where the hell have you been?!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696296,
+        "m_Localized": "I’ve been ringing that bell for 10 minutes straight!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696297,
+        "m_Localized": "Not everyone has time to sit around and wait for you to finish whatever you were doing!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696298,
+        "m_Localized": "I could’ve walked to another cafe, grabbed a drink, and come back by now.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696299,
+        "m_Localized": "Is this how you treat your customers? No wonder this place is always so quiet.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696300,
+        "m_Localized": "You can’t just leave the counter unattended like that!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696301,
+        "m_Localized": "What if someone came in and robbed the place?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696302,
+        "m_Localized": "Honestly, if you can’t even manage your own shop, maybe it’s time to shut it down.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696303,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696304,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696305,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696306,
+        "m_Localized": "Hi there, what can I get you today?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696307,
+        "m_Localized": "Boba Strawberry Milk Tea",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696308,
+        "m_Localized": "Boba Matcha Latte",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696309,
+        "m_Localized": "Boba Chocolate Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696310,
+        "m_Localized": "Please wait a moment, one Boba Strawberry Milk Tea coming right up!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696311,
+        "m_Localized": "Please wait a moment, one Boba Matcha Latte coming right up!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696312,
+        "m_Localized": "Please wait a moment, one Boba Chocolate Milk coming right up!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696313,
+        "m_Localized": "Yes, and can I borrow the toilet while I wait?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696314,
+        "m_Localized": "Is that all?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696315,
+        "m_Localized": "That's all.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696316,
+        "m_Localized": "I'm very so-sorry, our toilet is for staff only.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696317,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696318,
+        "m_Localized": "Thank you for waiting.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696319,
+        "m_Localized": "Hope you enjoy your drink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696320,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696321,
+        "m_Localized": "I told you… the toilet is for staff only.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696322,
+        "m_Localized": "But nobody ever listens, not when they look at me like I’m failure...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696323,
+        "m_Localized": "it's a shame that you don't get to enjoy my boba drink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696324,
+        "m_Localized": "But they kept coming in... with their eyes... staring... judging...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696325,
+        "m_Localized": "This shop is my sanctuary... my little world.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696326,
+        "m_Localized": "So I can't let you ruin it…",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696327,
+        "m_Localized": "I didn’t want this. But you left me no choice.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696328,
+        "m_Localized": " ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696329,
+        "m_Localized": "Not you, not her, not the shadows.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696330,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696331,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696332,
+        "m_Localized": "Damn, I need to pee so badly!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696333,
+        "m_Localized": "I'll just get a drink from here and use their toilet...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696334,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696335,
+        "m_Localized": "Let me order a drink first, then sneak in while she is not looking.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696336,
+        "m_Localized": "It says \"STAFF ONLY\". What a selfish store...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696337,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696338,
+        "m_Localized": "Toilet for staff only?? Screw that!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696339,
+        "m_Localized": "That must be where the toilet is.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696340,
+        "m_Localized": "I will sneak in the toilet while she is making my drink!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696341,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696342,
+        "m_Localized": "Who would do such a thing?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33025364708696343,
+        "m_Localized": "I need to leave immediately and call the police!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33149913274130432,
+        "m_Localized": "Drink Recipes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33150123647836160,
+        "m_Localized": "*Add Matcha Powder\nFor A Herbal taste",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33150638314102784,
+        "m_Localized": "*Add Strawberry\nFor a Sweet Aroma",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33150805515837440,
+        "m_Localized": "*Add Boba For\nBetter Enjoyment",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33150921249267712,
+        "m_Localized": "Matcha Milk Tea = Green Tea + Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151099284889600,
+        "m_Localized": "Green Tea = Black Tea + Matcha Powder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151244231647232,
+        "m_Localized": "Lemon Tea = Black Tea + Lemon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151376108953600,
+        "m_Localized": "Chocolate Milk = Chocolate + Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151527246503936,
+        "m_Localized": "Mocha = Americano + Chocolate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151663683018752,
+        "m_Localized": "Latte = Americano + Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33151770163814400,
+        "m_Localized": "Milk Tea = Black Tea + Fresh Milk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33332917833441280,
+        "m_Localized": "Cashier",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33340024905408512,
+        "m_Localized": "Icons - Freepik",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 33770716139233280,
+        "m_Localized": "and I hope to see improvement next time.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}
