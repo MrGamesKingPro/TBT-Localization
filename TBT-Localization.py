@@ -1,39 +1,39 @@
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import json
-# لاستخدام ميزة السحب والإفلات، يجب تثبيت هذه المكتبة:
+# To use the drag and drop feature, this library must be installed:
 # pip install tkinterdnd2
 import tkinterdnd2
 import re
 
-# نرث من tkinterdnd2.TkinterDnD.Tk للحصول على أفضل وظائف للسحب والإفلات.
+# We inherit from tkinterdnd2.TkinterDnD.Tk to get the best drag and drop functionality.
 class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
     def __init__(self):
         super().__init__()
         
-        # --- إعدادات النافذة الرئيسية ---
+        # --- Main Window Settings ---
         self.title("TBT Localization Editor (By MrGamesKingPro)")
         self.geometry("1100x700")
 
-        # --- متغيرات حالة التطبيق ---
-        self.data = None  # يحتفظ ببنية بيانات JSON المحملة بالكامل.
-        self.current_filepath = None  # يخزن مسار الملف المفتوح حاليًا.
-        self.id_to_tree_item = {}  # قاموس للعثور بسرعة على عنصر في Treeview بواسطة مفتاح m_Id.
-        self.id_to_original_index = {} # يربط مفتاح m_Id بالترتيب الأصلي له في مصفوفة JSON.
-        self.terms_list_ref = None  # مرجع مباشر إلى قائمة المصطلحات في JSON المحمل.
+        # --- Application State Variables ---
+        self.data = None  # Holds the entire loaded JSON data structure.
+        self.current_filepath = None  # Stores the path of the currently open file.
+        self.id_to_tree_item = {}  # Dictionary to quickly find an item in the Treeview by m_Id key.
+        self.id_to_original_index = {} # Links the m_Id key to its original order in the JSON array.
+        self.terms_list_ref = None  # Direct reference to the list of terms in the loaded JSON.
         
-        # متغير لتخزين مفتاح المصطلح الذي يتم تحريره حاليًا في أداة النص.
+        # Variable to store the key of the term currently being edited in the text widget.
         self.currently_editing_id = None
         
-        # --- بناء واجهة المستخدم ---
+        # --- Build the User Interface ---
         self._create_widgets()
         
-        # تسجيل النافذة الرئيسية كهدف لإسقاط الملفات.
+        # Register the main window as a drop target for files.
         self.drop_target_register('DND_FILES')
         self.dnd_bind('<<Drop>>', self.on_drop)
 
     def _create_widgets(self):
-        # --- شريط القوائم العلوي ---
+        # --- Top Menu Bar ---
         self.menu = tk.Menu(self)
         self.config(menu=self.menu)
         
@@ -48,11 +48,11 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         file_menu.add_separator()
         file_menu.add_command(label="Exit", command=self.quit)
         
-        # --- إطار شريط الأدوات العلوي (للبحث والاستبدال) ---
+        # --- Top Toolbar Frame (for Search and Replace) ---
         top_frame = ttk.Frame(self, padding="10")
         top_frame.pack(fill=tk.X)
         
-        # --- إطار البحث والاستبدال (محاذاة إلى اليمين) ---
+        # --- Search and Replace Frame (aligned to the right) ---
         search_frame = ttk.Frame(top_frame)
         search_frame.pack(side=tk.RIGHT)
         
@@ -67,13 +67,13 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         ttk.Button(search_frame, text="Replace", command=self.replace_selected).grid(row=1, column=2, padx=5, pady=2)
         ttk.Button(search_frame, text="Replace All", command=self.replace_all).grid(row=1, column=3, padx=5, pady=2)
 
-        # استخدام PanedWindow لإنشاء فاصل قابل لتغيير الحجم بين الجدول والمحرر.
+        # Use PanedWindow to create a resizable divider between the table and the editor.
         main_pane = ttk.PanedWindow(self, orient=tk.VERTICAL)
         main_pane.pack(expand=True, fill=tk.BOTH, padx=10, pady=(0, 10))
 
-        # --- الإطار العلوي لـ Treeview (قائمة المصطلحات) ---
+        # --- Top Frame for Treeview (list of terms) ---
         tree_frame = ttk.Frame(main_pane, padding=(0, 10, 0, 0))
-        main_pane.add(tree_frame, weight=3) # إعطاء الجدول مساحة أكبر افتراضيًا.
+        main_pane.add(tree_frame, weight=3) # Give the table more space by default.
         
         columns = ("#", "id", "text")
         self.tree = ttk.Treeview(tree_frame, columns=columns, show="headings")
@@ -91,16 +91,16 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         self.tree.pack(side=tk.LEFT, expand=True, fill=tk.BOTH)
         
-        # ربط حدث التحديد لتحديث محرر النص أدناه.
+        # Bind the selection event to update the text editor below.
         self.tree.bind("<<TreeviewSelect>>", self.on_tree_select)
 
-        # --- الإطار السفلي لمحرر النص الكامل ---
+        # --- Bottom Frame for the Full Text Editor ---
         editor_frame = ttk.LabelFrame(main_pane, text="Full Text Editor", padding="10")
-        main_pane.add(editor_frame, weight=1) # إعطاء المحرر مساحة أقل افتراضيًا.
+        main_pane.add(editor_frame, weight=1) # Give the editor less space by default.
 
         self.editor_text = tk.Text(editor_frame, wrap="word", height=10, width=80, undo=True)
         self.editor_text.pack(expand=True, fill="both", side="left", padx=(0, 10))
-        self.editor_text.config(state="disabled") # تعطيل حتى يتم تحديد عنصر.
+        self.editor_text.config(state="disabled") # Disable until an item is selected.
 
         editor_scrollbar = ttk.Scrollbar(editor_frame, orient=tk.VERTICAL, command=self.editor_text.yview)
         self.editor_text.configure(yscrollcommand=editor_scrollbar.set)
@@ -109,11 +109,11 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         self.save_button = ttk.Button(editor_frame, text="Save Changes", command=self.save_from_editor, state="disabled")
         self.save_button.pack(pady=10, anchor="n")
 
-        # --- شريط الحالة السفلي ---
+        # --- Bottom Status Bar ---
         self.status_bar = ttk.Label(self, text="Open a TBT Localization JSON file to begin, or drag & drop a file here.", relief=tk.SUNKEN, anchor='w')
         self.status_bar.pack(side=tk.BOTTOM, fill=tk.X)
         
-        # --- ربط اختصارات لوحة المفاتيح ---
+        # --- Bind Keyboard Shortcuts ---
         self.bind("<Control-o>", lambda event: self.open_file_dialog())
         self.bind("<Control-s>", lambda event: self.save_file())
         self.bind("<Control-S>", lambda event: self.save_file_as())
@@ -177,7 +177,7 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
             with open(filepath, 'r', encoding='utf-8') as f:
                 self.data = json.load(f)
             
-            # البحث عن مصفوفة البيانات الرئيسية.
+            # Search for the main data array.
             if 'm_TableData' in self.data and isinstance(self.data.get('m_TableData'), dict):
                 self.terms_list_ref = self.data['m_TableData'].get('Array')
             else:
@@ -205,10 +205,10 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         self.id_to_tree_item.clear()
         self.id_to_original_index.clear()
         
-        self.on_tree_select(None) # مسح وتعطيل المحرر
+        self.on_tree_select(None) # Clear and disable the editor
 
         for i, term_data in enumerate(self.terms_list_ref):
-            # استخدام m_Id كمفتاح فريد
+            # Use m_Id as a unique key
             term_id = str(term_data.get('m_Id', '[NO ID]'))
             full_translation = term_data.get('m_Localized', '[NO TEXT]')
             
@@ -224,10 +224,10 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
         original_index = self.id_to_original_index.get(term_id)
         if original_index is None: return
 
-        # تحديث البيانات في الذاكرة (القاموس الرئيسي لـ JSON).
+        # Update the data in memory (the main JSON dictionary).
         self.terms_list_ref[original_index]['m_Localized'] = new_text
 
-        # تحديث قيمة المعاينة في Treeview أيضًا.
+        # Also update the preview value in the Treeview.
         item_id = self.id_to_tree_item[term_id]
         current_values = list(self.tree.item(item_id, "values"))
         current_values[2] = new_text.replace('\n', ' ').replace('\r', ' ').strip()
@@ -262,7 +262,7 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
             return
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
-                # الحفاظ على التنسيق الأصلي للملف قدر الإمكان
+                # Preserve the original file format as much as possible
                 json.dump(self.data, f, indent=2, ensure_ascii=False)
             self.status_bar.config(text=f"File saved successfully: {filepath}")
         except Exception as e:
@@ -284,9 +284,14 @@ class TBTLocalizationEditor(tkinterdnd2.TkinterDnD.Tk):
                     original_index = self.id_to_original_index[term_id]
                     full_text = self.terms_list_ref[original_index]['m_Localized']
                     
-                    # تهريب علامات الاقتباس المزدوجة داخل النص ثم تغليف السلسلة بأكملها بعلامات اقتباس.
-                    escaped_text = full_text.replace('"', '""')
-                    quoted_text = f'"{escaped_text}"'
+                    # *** Start of modification ***
+                    # 1. Replace \n with \\n to keep it as text.
+                    # 2. Replace " with "" to escape quotes.
+                    processed_text = full_text.replace('\n', '\\n').replace('"', '""')
+                    # *** End of modification ***
+
+                    # Wrap the entire string in quotes.
+                    quoted_text = f'"{processed_text}"'
                     f.write(quoted_text + '\n')
 
             self.status_bar.config(text=f"Successfully exported to {filepath}")
